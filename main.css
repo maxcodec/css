@@ -89,19 +89,19 @@ section h2{
     font-size: 32px;
 }
 
-#E-sports {
+#esporte {
     background-color: rgba(0,255,0, 0.1);
 }
 
-#sports .articles article a{
+#esporte .articles article a{
     background-color: #009432;
 }
 
-#economy{
+#Economia{
     background-color: #f8f59f;
 }
 
-#economy .articles article a{
+#Economia .articles article a{
     background-color: #ff9f1a;
 }
 
@@ -113,10 +113,10 @@ section h2{
     background-color: #FF0000;
 }
 
-#E-sports {
+#E-Sports {
     background-color: #ADD8E6 ;
 }
 
-#E-sports .articles article a{
+#E-Sports .articles article a{
     background-color: #1E90FF;
 }
